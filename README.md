@@ -10,5 +10,5 @@ curl http://127.0.0.1:9091/hello
 ```
 
 - Grafana: http://127.0.0.1:3000
-- Prometheus: http://127.0.1:9000
+- Prometheus: http://127.0.0.1:9000
 
