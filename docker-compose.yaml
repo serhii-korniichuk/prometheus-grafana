@@ -5,6 +5,10 @@ volumes:
     grafana_data: {}
 
 services:
+  app:
+    build: .
+    ports:
+      - "9091:9091"
   prometheus:
     image: prom/prometheus:v3.4.1
     volumes:
