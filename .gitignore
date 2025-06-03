@@ -1,1 +1,7 @@
+# IDE
 .idea
+.DS_Store
+
+# Maven build output
+target
+dependency-reduced-pom.xml
